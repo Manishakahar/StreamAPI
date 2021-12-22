@@ -19,6 +19,7 @@ target/
 *.iml
 *.ipr
 * out
+*.Demo
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -27,6 +28,7 @@ target/
 /.nb-gradle/
 build/
 out/
+Demo/
 ### VS Code ###
 .vscode/
 
